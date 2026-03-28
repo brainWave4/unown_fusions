@@ -6,4 +6,6 @@ With Unown as the head half, it abstracts the body half.
 ## Usage
 To use the sprites for Pokemon Infinite Fusion, move `CustomBattlers` to `Graphics` in its root folder and let it merge.
 ## Acknowledgements
-* [Guide to Custom Sprites](https://infinitefusion.fandom.com/wiki/Custom_Sprites)
+* I got to know Infinite Fusion from [Hoodlum Callum](https://www.youtube.com/@HoodlumCallum)
+* [Jimmothy Cool](https://www.youtube.com/@jimothycool)'s playthorough motivate me to do as many fusions.
+* [Guide to Custom Sprites](https://infinitefusion.fandom.com/wiki/Custom_Sprites) for making fusions and implementing them.
