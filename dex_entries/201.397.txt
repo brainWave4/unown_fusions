@@ -1,0 +1,1 @@
+It represents a pair of gears that rotates for energy. Its interlocking gear teeth are attached to both bodies, so it can't spin that way.
