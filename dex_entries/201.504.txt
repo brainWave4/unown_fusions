@@ -1,0 +1,1 @@
+It moves in zigzag fashion. It keeps its eye on the ground, so it always find items no matter how obscure they are.
